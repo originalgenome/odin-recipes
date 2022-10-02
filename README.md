@@ -1,1 +1,1 @@
-# odin-recipes
+In my first Odin project, I will be constructing a simple website consisting of various recipes. Through this project, I will be demonstrating my ability to craft webpages through HTML and markup the webpages so that each recipe is properly structured and easily followed. 
